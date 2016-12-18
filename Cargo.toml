@@ -1,0 +1,11 @@
+[package]
+name = "rogue"
+version = "0.1.0"
+authors = ["John Blomberg <johnblo@kth.se>"]
+
+[dependencies]
+piston_window = "0.58.0"
+rand = "0.3.15"
+
+[dependencies.vecmath]
+git = "https://github.com/PistonDevelopers/vecmath"
